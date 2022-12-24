@@ -2,6 +2,7 @@ import Expenses from "./components/Expenses/Expenses";
 import NewExpense from "./components/NewExpense/NewExpense";
 import React, { useState } from "react";
 
+// List are rendered in the home page 
 const DUMMY_EXPENSES = [
   {
     id: 1,

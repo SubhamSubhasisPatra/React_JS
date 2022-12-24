@@ -1,5 +1,6 @@
 # Expencess Tracker 
+-------------------------------
 
--- 
-
-## Expense chart 
+### Features
+  Ecpence Chart 
+  Detailed View
