@@ -2,5 +2,4 @@
 -------------------------------
 
 ### Features
-  Ecpence Chart 
-  Detailed View
+ 
